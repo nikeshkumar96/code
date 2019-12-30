@@ -5,5 +5,5 @@ for thing in exampleList:
     print(thing)
 
 for x in range(1,11):
-    print(x)
+    print(x) ;
 
